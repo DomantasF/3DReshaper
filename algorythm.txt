@@ -1,0 +1,15 @@
+initialy done: 
+a. Clear point cloud 
+b. initial point (0.0.0)
+c. Best fit cylinder
+ 
+Script for write to file (csv-txt):
+
+1. how many stations [angle] (from 12 [30] to 36 [10]) - choosing from dialog
+2. on click (height):
+2.1 contour length
+2.2 best fit circle diameter (radius)
+2.3 verticality points deviation (radius) on best fit cylinder (c) by all the stations (1)
+3. cylinder tilt:
+3.1 verticality tangent (angle)
+3.2 horizontal direction angle from initial point (b)
